@@ -1,2 +1,0 @@
-# demogit
-moi hoc git
